@@ -2,6 +2,9 @@
 
 This repository archives the source files for the **Fundamental Algebra and Analysis** course notes.
 
+Course edition: **2025 Fall–2026 Spring** (`2025fall`, `2026spring`).
+Repository: `FAA-lecture-notes-2025fall-2026spring`.
+
 As of June 24, 2026, all course sessions have ended. The repository is kept mainly as an archive of the LaTeX sources for the two parts of the course:
 
 - `I/`: Part I course notes and related materials
@@ -24,6 +27,9 @@ This repository is released under the MIT License. See [LICENSE](LICENSE) for de
 # 代数与分析基础
 
 这个仓库用于归档 **代数与分析基础** 课程讲义的源文件。
+
+课程版本：**2025 年秋季至 2026 年春季**（`2025fall`、`2026spring`）。
+仓库名称：`FAA-lecture-notes-2025fall-2026spring`。
 
 截至 2026 年 6 月 24 日，今天所有课程均已结束。本仓库主要作为两部分课程 LaTeX 源文件的归档：
 
